@@ -1,5 +1,6 @@
 body{
-    background-color: aqua;
+    background-color: white;
+    margin: 15px;
 }
 .link-button{
     text-decoration: none;
@@ -15,4 +16,22 @@ body{
 .button-style:hover{
     color: red;
     font-size: large;
+}
+.top-benner{
+    background-image: url(Slide1.jpg);
+    background-repeat: no-repeat;
+}
+.modifier{
+    width: 40%;
+    float: left;
+    
+}
+.modifier image{
+    width: 100%;
+}
+section{
+    height: 500px;
+}
+.font-style{
+    color: gold;
 }
