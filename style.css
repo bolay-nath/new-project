@@ -6,3 +6,13 @@ body{
     background-color: olivedrab;
     
 }
+.button-style{
+    text-decoration: none;
+    background-color: rgb(42, 165, 95);
+    padding: 10px 20px;
+    font-weight: 700;
+}
+.button-style:hover{
+    color: red;
+    font-size: large;
+}
