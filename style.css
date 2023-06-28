@@ -24,6 +24,7 @@ body{
 .modifier{
     width: 40%;
     float: left;
+    margin-inline: 2.5%;
     
 }
 .modifier image{
@@ -35,3 +36,35 @@ section{
 .font-style{
     color: gold;
 }
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    padding-left: 2.5%;
+    height: 80%;
+    
+}
+.experience{
+    background-image: url(Slide1.jpg);
+    background-repeat: no-repeat;
+    background-position: 20;
+}
+#for-nice{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon,tomato) ;
+    border-image-slice: 1;
+   
+}
+#new-border{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+}
+
+    
+    
+    
+
+    
